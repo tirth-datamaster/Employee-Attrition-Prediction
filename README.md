@@ -4,7 +4,6 @@
 
 Employee attrition is one of the biggest challenges faced by organizations, as high employee turnover increases recruitment costs, training expenses, and reduces overall productivity. This project aims to analyze employee data and build machine learning models that can predict whether an employee is likely to leave the organization. The project also identifies the key factors contributing to employee attrition and provides actionable business recommendations to improve employee retention.
 
----
 
 ## Internship Project Information
 
@@ -13,8 +12,6 @@ Employee attrition is one of the biggest challenges faced by organizations, as h
 **Domain:** Human Resources Analytics (HR Analytics)
 
 **Project Type:** Data Science Internship Project
-
----
 
 ## Objectives
 
@@ -26,7 +23,6 @@ Employee attrition is one of the biggest challenges faced by organizations, as h
 * Identify the most important features influencing employee attrition.
 * Provide business insights and HR recommendations.
 
----
 
 ## Dataset Information
 
@@ -35,7 +31,6 @@ Employee attrition is one of the biggest challenges faced by organizations, as h
 * **Total Features:** 35
 * **Target Variable:** Attrition (Yes / No)
 
----
 
 ## Technologies Used
 
@@ -47,8 +42,6 @@ Employee attrition is one of the biggest challenges faced by organizations, as h
 * Seaborn
 * Scikit-learn
 
----
-
 ## Machine Learning Models
 
 The following classification models were implemented and evaluated:
@@ -57,7 +50,6 @@ The following classification models were implemented and evaluated:
 2. Random Forest Classifier
 3. Gradient Boosting Classifier
 
----
 
 ## Model Performance
 
@@ -71,7 +63,6 @@ The following classification models were implemented and evaluated:
 
 **ROC-AUC Score:** 0.794
 
----
 
 ## Project Workflow
 
@@ -89,7 +80,6 @@ The following classification models were implemented and evaluated:
 12. Business Insights
 13. HR Recommendations
 
----
 
 ## Exploratory Data Analysis
 
@@ -103,8 +93,6 @@ The following visualizations were created during the analysis:
 * Confusion Matrix
 * Feature Importance
 
----
-
 ## Key Findings
 
 * Monthly Income was one of the strongest predictors of employee attrition.
@@ -113,7 +101,6 @@ The following visualizations were created during the analysis:
 * Employees in the early years of their careers showed higher attrition rates.
 * Workplace satisfaction and job involvement also contributed to employee retention.
 
----
 
 ## Business Recommendations
 
@@ -123,11 +110,9 @@ The following visualizations were created during the analysis:
 * Implement mentorship and career development programs for new employees.
 * Conduct regular employee feedback surveys to improve retention.
 
----
 
 ## Project Structure
 
-```text
 employee-attrition-prediction/
 │
 ├── analysis.ipynb
@@ -144,9 +129,7 @@ employee-attrition-prediction/
     ├── years_company_attrition.png
     ├── confusion_matrix.png
     └── feature_importance.png
-```
 
----
 
 ## Installation
 
@@ -169,14 +152,11 @@ jupyter notebook
 ```
 
 Open:
-
 ```text
 analysis.ipynb
 ```
 
 Run all cells sequentially.
-
----
 
 ## Future Improvements
 
@@ -185,7 +165,6 @@ Run all cells sequentially.
 * Experiment with additional machine learning algorithms.
 * Develop an interactive HR dashboard for real-time attrition monitoring.
 
----
 
 ## Author
 
@@ -196,9 +175,5 @@ B.Tech – Artificial Intelligence & Data Science
 Sankalchand Patel University
 
 GitHub: https://github.com/tirth-datamaster
-
----
-
-## License
 
 This project was developed for educational and internship learning purposes.
